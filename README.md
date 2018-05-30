@@ -27,6 +27,9 @@ IForest On Spark:
 IForest On Spark Test Result:
 ![image](https://github.com/gstar1987td/IForest-On-Spark/blob/master/result/10Partition1500Tree500Samples.png)
 
+Project rely on spark-2.1.0-bin-hadoop2.7.Download at :http://spark.apache.org/downloads.html
+
+Or download jars from libs
 
 How To Use:
 ```Scala 
