@@ -29,7 +29,6 @@ IForest On Spark Test Result:
 
 Project rely on spark-2.1.0-bin-hadoop2.7.Download at :http://spark.apache.org/downloads.html
 
-Or download jars from libs
 
 How To Use:
 ```Scala 
